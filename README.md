@@ -5,6 +5,17 @@ Our submited system and despite its simplicity has ranked in 45 from 66 particip
 
 This setup has permit us to obtain the following scores:  	0.5850 (English), 0.7600 (Spanish), and 	0.6725 (Average).
 
+# Clone and unzip models
+In the start you have to clone this repository:
+
+     git clone https://github.com/computational-linguistics-department/Profiling-Fake-News-Spreaders-Pan.git
+
+If you are in Unix environment, you can unzip the two models using:
+
+     7z e tfidfEn.7z
+     7z e tfidfEs.7z
+In windows or others you can use any .7z unpacking software.
+
 # How to use:
 You can run the code in this repository for both training and evaluating phases by using one of these commands:
 
