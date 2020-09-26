@@ -16,6 +16,8 @@ If you are in Unix environment, you can unzip the two models using:
      7z e tfidfEs.7z
 In windows or others you can use any .7z unpacking software.
 
+# Dataset
+For the dataset you can refer to this website: https://pan.webis.de/data.html .The data is also shared in zenodo: https://zenodo.org/record/4039435#.X28orYbjLVQ
 # How to use:
 You can run the code in this repository for both training and evaluating phases by using one of these commands:
 
