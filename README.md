@@ -14,7 +14,7 @@ If you are in Unix environment, you can unzip the two models using:
 
      7z e tfidfEn.7z
      7z e tfidfEs.7z
-In windows or others you can use any .7z unpacking software.
+In windows you can use any .7z unpacking software.
 
 # Dataset
 For the dataset you can refer to this website: https://pan.webis.de/data.html .The data is also shared in zenodo: https://zenodo.org/record/4039435#.X28orYbjLVQ
@@ -31,9 +31,8 @@ For test purpose:
 	 
 # Contact
 Please email to authors if you have question.<br />
-Mohamed Lichouri (m.lichouri@crstdla.dz)<br />
-Mourad Abbas (m.abbas@crstdla.dz)<br />
-Besma Benaziz (b.benaziz@crstdla.dz)
+Mohamed Lichouri (licvol@gmail.com)<br />
+Mourad Abbas (m_abbas04@yahoo.fr)<br />
 
 
 
