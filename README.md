@@ -1,10 +1,10 @@
 # Profiling-Fake-News-Spreaders-Pan@CLEF2020
-This repository covers deals with the problem of Profiling Fake News Spreaders on Twitter: https://pan.webis.de/clef20/pan20-web/author-profiling.html
+This repository deals with the problem of Profiling Fake News Spreaders on Twitter: https://pan.webis.de/clef20/pan20-web/author-profiling.html
 
 In this workshop, we have participated in both English and Spanish subTasks. Our approach is based on the unification of multiple TF-IDF features as well as three Morphological processes (Lemmatization, Stemming and Part-Of-Speech Tagging). 
 
 # Clone and unzip models
-In the start you have to clone this repository:
+At first, you need to clone this repository:
 
      git clone https://github.com/computational-linguistics-department/Profiling-Fake-News-Spreaders-Pan.git
 
@@ -33,7 +33,11 @@ Mohamed Lichouri (licvol@gmail.com)<br />
 Mourad Abbas (m_abbas04@yahoo.fr)<br />
 
 # Link to the paper:
-   
+
+    Mohamed Lichouri, Mourad Abbas, and Besma Benaziz. Profiling Fake News Spreaders on Twitter-based on TFIDF 
+    Features and Morphological Process—Notebook for PAN at CLEF 2020. In Linda Cappellato, Carsten Eickhoff, 
+    Nicola Ferro, and Aurélie Névéol, editors, CLEF 2020 Labs and Workshops, Notebook Papers, September 2020. 
+    CEUR-WS.org. https://pan.webis.de/downloads/publications/papers/lichouri_2020.pdf
 
 # Citing
 
